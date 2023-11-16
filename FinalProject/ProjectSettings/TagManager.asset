@@ -8,10 +8,10 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Terrain
+  - TerrainL
   - Water
   - UI
-  - 
+  - TerrainT
   - 
   - 
   - 
